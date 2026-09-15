@@ -1,4 +1,4 @@
-# QI AI Program
+# QI AI Programs
 
 **Digital Archive Index — Qualcomm Institute (QI) AI Programs, University of California, San Diego (UCSD)**
 
